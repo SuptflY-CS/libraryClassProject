@@ -1,1 +1,2 @@
 # libraryClassProject
+This project was for my second semester C++ class in montgomery college (as a highschool junior enrolled full time at mc), in which we did object oriented programming, error handling, struct arrays, etc, and the oldest version on here is the one I submitted to my class as the final project (CMSC 226, intro to obj oriented programming w/ c++). This is the final version without using structs etc, and I will update this a little bit. 
