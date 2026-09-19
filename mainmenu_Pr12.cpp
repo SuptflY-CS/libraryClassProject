@@ -1,9 +1,9 @@
 /*
 ** Program: Project 12
 ** Description: Build upon project 11 and use exception handling
-** Course: CMSC226 CRN 32842
-** Professor: Huseyin Aygun
-** Student: Izzat Ismailov
+** Course: CMSC*** CRN *****
+** Professor: ******* *****
+** Student: ***** ********
 ** Due Date: 05/11/2025
 */
 
